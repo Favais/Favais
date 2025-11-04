@@ -6,26 +6,38 @@
 
 ###
 
-<br clear="both">
-
-<img align="left" height="100"  src="../Favais/IMG_9115.jpg"  />
+<p align="left">Hello, Welcome to my profile. i'm Aisosa a passionate Full Stack Developer (MERN) focused on building intuitive, scalable, and efficient web applications.<br>I enjoy transforming complex ideas into clean, maintainable code that delivers real user value.<br><br>💡 Currently exploring: Next.js, TypeScript, and modern backend practices.<br>🛠️ Tech stack: React, Node.js, Express, MongoDB, TailwindCSS.<br>🌍 Driven by curiosity, collaboration, and continuous learning.<br><br>Let’s build something that matters.</p>
 
 ###
 
-<p align="left">Hello, Welcome to my profile. i'm Aisosa a passionate Full Stack Developer (MERN) focused on building intuitive, scalable, and efficient web applications.<br>I enjoy transforming complex ideas into clean, maintainable code that delivers real user value.<br><br>💡 Currently exploring: Next.js, TypeScript, and modern backend practices.<br>🛠️ Tech stack: React, Node.js, Express, MongoDB, TailwindCSS.<br>🌍 Driven by curiosity, collaboration, and continuous learning.<br><br>Let’s build something that matters.</p>
+<div align="left">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+</div>
+
+###
+
+<br clear="both">
+
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=favais.favais&left_color=black&right_color=black"  />
+
+###
+
+<h2 align="left">Stats</h2>
 
 ###
 
 <br clear="both">
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=favais&hide_title=false&hide_rank=true&show_icons=false&include_all_commits=true&count_private=true&disable_animations=false&theme=default&locale=en&hide_border=true&order=1" height="100" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=favais&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=default&hide_border=true&order=2" height="100" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=favais&hide_title=false&hide_rank=true&show_icons=false&include_all_commits=true&count_private=true&disable_animations=true&theme=default&locale=en&hide_border=true&order=1" height="250" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=favais&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=default&hide_border=true&order=2" height="250" alt="languages graph"  />
 </div>
 
 ###
 
-<h1 align="left">Tech Stack & Skills</h1>
+<h2 align="left">Tech Stack & Skills</h2>
 
 ###
 
@@ -51,28 +63,8 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/favais/favais/output/snake.svg" alt="Snake animation" />
-
-###
-
-<br clear="both">
-
-<div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-</div>
-
-###
-
-<br clear="both">
-
-<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=favais.favais&"  />
-
-###
-
 <div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?count=5" alt="Spotify recently played"  />
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=31qppfcdcsnb56dtipidssfp6hz4&width=1000&count=3" alt="Spotify recently played"  />
 </div>
 
 ###
